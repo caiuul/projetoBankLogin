@@ -30,12 +30,16 @@ Account data:
 Account 1234, Holder: Caiul Silva, Balance: $ 500.00
 
 Enter a deposit value: 200.00
+
 Updated account data:
 Account 1234, Holder: Caiul Silva, Balance: $ 700.00
 
 Enter a withdraw value: 100.00
+
 Updated account data:
-Account 1234, Holder: Caiul Silva, Balance: $ 595.00 // pós a taxa de saque é R$ 5.00;
+Account 1234, Holder: Caiul Silva, Balance: $ 595.00
+
+// pós a taxa de saque é R$ 5.00
 
 
 ## 📖 Conceitos Aplicados
